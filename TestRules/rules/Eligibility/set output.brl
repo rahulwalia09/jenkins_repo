@@ -4,9 +4,9 @@
   <uuid>19f86f8f-3ef0-41e0-b781-7c146113933b</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[if
-    the input of 'the request' is "1"
+    the input of 'the request' is "5"
 then
-    set the output of 'the response' to "1000" ;
+    set the output of 'the response' to "5000" ;
     
     ]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>
