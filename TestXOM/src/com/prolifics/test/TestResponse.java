@@ -2,7 +2,7 @@ package com.prolifics.test;
 
 public class TestResponse {
 
-	private String output="";
+	private String output=new String();
 
 	public String getOutput() {
 		return output;

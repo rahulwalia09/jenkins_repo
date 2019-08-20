@@ -2,7 +2,7 @@ package com.prolifics.test;
 
 public class TestRequest {
 
-	private String input="";
+	private String input=new String();
 
 	public String getInput() {
 		return input;
