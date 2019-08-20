@@ -2,7 +2,6 @@
 <com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="TestRuleApp" managingXom="true">
   <name>TestRuleApp</name>
   <uuid>740b0765-e4a1-41ad-96a2-d195fa51ba55</uuid>
-  <targets label="ODM LAB"/>
   <operations operationName="TestRules">
     <operation href="TestRules.dop#b9a8098e-f82a-4891-9fb7-7ea55367ffb7"/>
     <properties key="ruleset.version">
